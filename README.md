@@ -2,7 +2,7 @@
 
 #### My name is Xiong Xiao Bing.
 
-👨🏻‍💻 &nbsp; I am an PHP developer and the creator of [Lsky Pro](https://github.com/wisp-x/lsky-pro). I have a [blog](https://www.wispx.cn) that records my daily life.
+👨🏻‍💻 &nbsp; I am an PHP developer and the creator of [Lsky Pro](https://github.com/wisp-x/lsky-pro). I have a [blog](https://xxb.im) that records my daily life.
 
 📧 &nbsp; If you want to contact me, please send an email to i@wispx.cn
 
