@@ -2,9 +2,7 @@
 
 #### My name is Xiong Xiao Bing.
 
-👨🏻‍💻 I am a PHP developer and the creator of [Lsky Pro](https://github.com/wisp-x/lsky-pro). I have a [blog](https://xxb.im) that records my daily life.
-
-🚀 I am a freelancer and the creator of [Spark Studio](https://github.com/huohuastudio), currently working on my own product. 
+👨🏻‍💻 I am a freelancer and the creator of [Spark Studio](https://github.com/huohuastudio), currently working on my own product. I have a [blog](https://xxb.im) that records my daily life.
 
 📧 If you want to contact me, please send an email to [hi@xxb.im](mailto:hi@xxb.im)
 
